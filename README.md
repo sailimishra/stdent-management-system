@@ -1,1 +1,1 @@
-# stdent-management-system
+# student-management-system
